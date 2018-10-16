@@ -90,7 +90,7 @@
 
 
 
-# Simulando processo de versionamento git a partir do repositorio
+## Simulando processo de versionamento git a partir do repositorio ##
     |===========================================|=============================|
     |   > git clone [SSH repository]            |   clonando do repositorio   |
     |   > git [status - add - commint]          |   gerenciamento primario    |
@@ -100,7 +100,7 @@
     |===========================================|=============================|
 
 
-# Simulando processo de versionamento git a partir do pc local
+## Simulando processo de versionamento git a partir do pc local ##
     |================================================|=============================|
     |   > git init                                   |   inicializa git            |
     |   > git [status - add - commint]               |   gerenciamento primario    |
@@ -110,14 +110,14 @@
 
 =======================================================================================
 
-# Checklist 01: a partir do projeto local
+## Checklist 01: a partir do projeto local ##
     [] Criar dir do projetoX
     [] Inicialize o git
     [] Crie pager index.html do tipo ola mundo
     [] Crie remote origin
     [] Envie para servidor (push)
 
-# Checklist 02: clonando projeto existente no servidor
+## Checklist 02: clonando projeto existente no servidor ##
     [] Clone projetoX na pasta projetoY
     [] Atualize pager index.html p/ tipo ola mundo! Obrigado Brasil
     [] Envie para servidor (push)
